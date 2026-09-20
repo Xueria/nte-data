@@ -1,7 +1,7 @@
 {
   "bid": {
     "list": [
-      "bid/1x1.json",
+      "bid/single.json",
       "bid/gold.json",
       "bid/gold-v1.4.json",
       "bid/single-v1.4.json"
